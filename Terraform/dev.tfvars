@@ -1,7 +1,7 @@
 
-subscription_id="2bb92624-217a-45f4-a6c0-9da57926d5bd"
-tenant_id="01baeab8-27f4-42c6-b537-4d968a11298c"
-client-id="914fdd58-40ba-470d-b959-586d7e517592"
+subscription_id="8f14efb9-d2f2-4ef8-aeb8-afe76bf837bc"
+tenant_id="2350759d-5605-44a5-b4ba-76c6ac205e2b"
+client-id="e2b9449b-d20c-419c-a031-1879af34e499"
 system = "terraexample"
 servername = "vmterraform"
 location = "westus2"
